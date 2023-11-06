@@ -1,2 +1,1 @@
-# IoT
-IoT based Smart Refrigerator
+# IoT based Smart Refrigerator
